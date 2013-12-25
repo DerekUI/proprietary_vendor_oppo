@@ -97,6 +97,9 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/finder/proprietary/lib/libmm-abl-oem.so:system/lib/libmm-abl-oem.so \
     vendor/oppo/finder/proprietary/lib/libmm-abl.so:system/lib/libmm-abl.so \
     vendor/oppo/finder/proprietary/lib/libmmipl.so:system/lib/libmmipl.so
+    vendor/oppo/finder/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so
+    vendor/oppo/finder/proprietary/lib/hw/sensors.msm8660.so:system/lib/hw/sensors.msm8660.so
+    vendor/oppo/finder/proprietary/lib/hw/vendor-camera.msm8660.so:system/lib/hw/vendor-camera.msm8660.so
 
 # Binaries
 PRODUCT_COPY_FILES += \
