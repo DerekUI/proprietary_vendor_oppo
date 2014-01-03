@@ -132,7 +132,6 @@ PRODUCT_COPY_FILES += \
 # Vendor
 PRODUCT_COPY_FILES += \
     vendor/oppo/finder/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlL3.so \
-    vendor/oppo/finder/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlL3.so \
-    vendor/oppo/finder/proprietary/vendor/lib/libwvdrm.so:system/vendor/lib/libwvdrm.so \
+    vendor/oppo/finder/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
     vendor/oppo/finder/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/oppo/finder/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
